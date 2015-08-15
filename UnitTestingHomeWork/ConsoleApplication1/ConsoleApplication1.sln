@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolCampus", "ConsoleApplication1\SchoolCampus.csproj", "{E3DE4F57-10FB-4AFF-843F-2D04438D9239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santase", "Santase\Santase.csproj", "{0721FFAF-F66F-4CDF-AE41-603B2BCEF3FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DE4F57-10FB-4AFF-843F-2D04438D9239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DE4F57-10FB-4AFF-843F-2D04438D9239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DE4F57-10FB-4AFF-843F-2D04438D9239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DE4F57-10FB-4AFF-843F-2D04438D9239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0721FFAF-F66F-4CDF-AE41-603B2BCEF3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0721FFAF-F66F-4CDF-AE41-603B2BCEF3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0721FFAF-F66F-4CDF-AE41-603B2BCEF3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0721FFAF-F66F-4CDF-AE41-603B2BCEF3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
